@@ -1,0 +1,12 @@
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\bin\Debug\net6.0\IdentityAutenticacao.DOMAIN.deps.json
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\bin\Debug\net6.0\IdentityAutenticacao.DOMAIN.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\bin\Debug\net6.0\IdentityAutenticacao.DOMAIN.pdb
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.AssemblyInfo.cs
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\refint\IdentityAutenticacao.DOMAIN.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\IdentityAutenticacao.DOMAIN.pdb
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.DOMAIN\obj\Debug\net6.0\ref\IdentityAutenticacao.DOMAIN.dll

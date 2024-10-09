@@ -1,0 +1,17 @@
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\bin\Debug\net6.0\IdentityAutenticacao.INFRA.deps.json
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\bin\Debug\net6.0\IdentityAutenticacao.INFRA.runtimeconfig.json
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\bin\Debug\net6.0\IdentityAutenticacao.INFRA.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\bin\Debug\net6.0\IdentityAutenticacao.INFRA.pdb
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.csproj.AssemblyReference.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.AssemblyInfoInputs.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.AssemblyInfo.cs
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\refint\IdentityAutenticacao.INFRA.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.pdb
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.genruntimeconfig.cache
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\ref\IdentityAutenticacao.INFRA.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\bin\Debug\net6.0\IdentityAutenticacao.DOMAIN.dll
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\bin\Debug\net6.0\IdentityAutenticacao.DOMAIN.pdb
+C:\Users\jgsco\RiderProjects\IdentityAutenticacao\IdentityAutenticacao.INFRA\obj\Debug\net6.0\IdentityAutenticacao.INFRA.csproj.CopyComplete

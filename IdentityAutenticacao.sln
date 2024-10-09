@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAutenticacao.DOMAIN", "IdentityAutenticacao.DOMAIN\IdentityAutenticacao.DOMAIN.csproj", "{4628A98D-03C0-4571-B1EF-BB9007C2B6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAutenticacao.INFRA", "IdentityAutenticacao.INFRA\IdentityAutenticacao.INFRA.csproj", "{3AC292A3-8D70-40AF-8542-5066D0D08D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAutenticacao.API", "IdentityAutenticacao.API\IdentityAutenticacao.API.csproj", "{7F2228D6-F6E5-4DE5-B39A-328575F6BD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4628A98D-03C0-4571-B1EF-BB9007C2B6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4628A98D-03C0-4571-B1EF-BB9007C2B6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4628A98D-03C0-4571-B1EF-BB9007C2B6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4628A98D-03C0-4571-B1EF-BB9007C2B6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC292A3-8D70-40AF-8542-5066D0D08D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC292A3-8D70-40AF-8542-5066D0D08D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC292A3-8D70-40AF-8542-5066D0D08D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC292A3-8D70-40AF-8542-5066D0D08D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2228D6-F6E5-4DE5-B39A-328575F6BD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2228D6-F6E5-4DE5-B39A-328575F6BD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2228D6-F6E5-4DE5-B39A-328575F6BD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2228D6-F6E5-4DE5-B39A-328575F6BD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

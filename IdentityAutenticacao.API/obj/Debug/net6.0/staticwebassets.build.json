@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hiUN52UKSVJ0M8gVZHgVu7yFfxrlzOJBVW1tLTeGIpM=",
+  "Source": "IdentityAutenticacao.API",
+  "BasePath": "_content/IdentityAutenticacao.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
